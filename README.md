@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 My name is Pp, but you can call me PpLarry. My full name is Punpichit Puapun. I am currently studying at Rajamangala University of Technology Thanyaburi, majoring in Computer Science under the Faculty of Science and Technology.
 
-*   🌍  I'm based in Lopburi Thailand
+*   🌍  I'm based in Lopburi Thailand, but I came to study in Pathum Thani.
 *   ✉️  You can contact me at [punpichit46@gmail.com](mailto:punpichit46@gmail.com)
 *   🧠  I'm learning Front-End
 *   ⚡  If you’re a Big fan of The Walking Dead, we’re definitely going to have a long conversation!
